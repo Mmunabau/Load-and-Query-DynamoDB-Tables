@@ -30,30 +30,30 @@ The project focused on building a dynamic, high-performance data storage solutio
 
 <p align="center">
 Open your AWS console Navigate to DynamoDB tab: <br/>
- <img src="image/cf-1.png" height="80%" width="80%" alt="key steps"/>
+ <img src="images/db1.png" height="80%" width="80%" alt="key steps"/>
 <br />
  
 <br />
 On the top right corner creat DynamoDB table: DynamoDB tables organise data using items and attributes! Every single item is recorded with a set of attributes. items can have any number of attributes(minimum 1, for the partition key values  <br/>
-<img src="image/cf-2.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/db4.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 <br />
 scroll down under the configuration of DynamoDB table to "Read and Write Capacity"   Read capacity unit(RCU) and write capacity units(WCUs)are units that measure my DynamoDB table's performance.DynamoDB pricing is based on RCUs and WCUs,so the more RCU/WCUs consumed,the more expensive the project<br/>
-<img src="image/cf-3.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/db3.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 <br />
 Navigate to cloudshell where AWS CLI is installed.: AWS CLI is a tool that lets you manage AWS services using terminal commands. It supports automation through scripts, provides access to AWS APIs, and works across platforms, simplifying tasks like deploying resources and managing configurations <br/>
-<img src="image/cf-4.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/db5.png" height="80%" width="80%" alt="key steps"/>
 <br />
 <br />
 Load Data with CLI: I ran a CLI command in AWS CloudShell that load multiple items of data into the DynamoDB tables i set up in the previous step <br/>
-<img src="image/cf-5.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/db6.png" height="80%" width="80%" alt="key steps"/>
 <br />
 <br />
  Observing Item Attributes:  <br/>
-<img src="image/cf-6.png" height="80%" width="80%" alt="key steps"/>
+<img src="images/db7.png" height="80%" width="80%" alt="key steps"/>
 <br />
 
 </p>

@@ -47,11 +47,11 @@ scroll down under the configuration of DynamoDB table to "Read and Write Capacit
 Navigate to cloudshell where AWS CLI is installed.: AWS CLI is a tool that lets you manage AWS services using terminal commands. It supports automation through scripts, provides access to AWS APIs, and works across platforms, simplifying tasks like deploying resources and managing configurations <br/>
 <img src="image/cf-4.png" height="80%" width="80%" alt="key steps"/>
 <br />
-
+<br />
 Load Data with CLI: I ran a CLI command in AWS CloudShell that load multiple items of data into the DynamoDB tables i set up in the previous step <br/>
 <img src="image/cf-5.png" height="80%" width="80%" alt="key steps"/>
 <br />
-
+<br />
  Observing Item Attributes:  <br/>
 <img src="image/cf-6.png" height="80%" width="80%" alt="key steps"/>
 <br />

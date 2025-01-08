@@ -17,8 +17,7 @@ The project focused on building a dynamic, high-performance data storage solutio
 - <b>Database Design and Management: Efficiently structured and managed DynamoDB tables.</b> 
 - <b>AWS CLI Proficiency: Used CLI commands to configure and manage DynamoDB attributes.</b>
 - <b>Problem-Solving: Addressed dynamic data storage needs with scalable solutions.</b>
-- <b>- <b>Problem-Solving: Addressed dynamic data storage needs with scalable solutions.</b>.</b>
-- <b>- <b>Problem-Solving: Addressed dynamic data storage needs with scalable solutions.</b>.</b>
+
 <h2>Utilities used</h2>
 <ul>
   <li>AWS console</li>
